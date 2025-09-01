@@ -1,14 +1,14 @@
 # 💫 About Me:
-Hi there! I'm Aniket Singh, a Computer Science and Engineering graduate passionate about **Artificial Intelligence and Machine Learning**. Currently working as an AI Engineer at Acadally, where I develop intelligent tutoring systems and educational AI solutions. I have hands-on experience building AI-powered applications, working with large language models, and implementing MLOps practices. I enjoy solving complex problems and have solved 200+ coding challenges on LeetCode.
+Hi there! I'm Aniket Singh, a Computer Science and Engineering graduate passionate about **Artificial Intelligence and Machine Learning**. Currently working as an AI Engineer, I specialize in developing intelligent systems and AI-powered applications. I have hands-on experience building solutions with large language models, implementing retrieval-augmented generation systems, and deploying ML models at scale. I enjoy solving complex problems and have solved 200+ coding challenges on LeetCode.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-singh) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aniketsingh12)
 
-## 🔭 Current Work:
-- **AI Engineer** at Acadally - Building adaptive tutoring systems and AI-powered educational tools
-- Developing **Context-Aware Question Generators** using LLMs and Bloom's Taxonomy
-- Implementing **RAG systems** with NCERT textbooks integration
-- Creating **Text-to-SQL interfaces** for data analytics
+## 🔭 Current Focus:
+- **AI Engineering** - Building adaptive AI systems and intelligent applications
+- Developing **Context-Aware Solutions** using LLMs and advanced NLP techniques
+- Implementing **RAG systems** for enhanced information retrieval
+- Creating **Data Analytics Interfaces** and automated query systems
 
 ## 🚀 Recent Projects:
 - **MCP AI Assistant** - Multi-source intelligence platform with real-time data retrieval
