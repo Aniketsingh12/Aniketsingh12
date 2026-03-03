@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aniket Singh 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> · Building Autonomous Agents, RAG Systems & AI Content Pipelines<br>
+  <b>AI Engineer</b> · Building Autonomous Agents, RAG Systems <br>
   <a href="https://aniketsingh12.github.io/AI-Engineer-Portfolio/">🌐 Portfolio</a> · 
   <a href="https://www.linkedin.com/in/aniket-singh-954b721a3/">💼 LinkedIn</a> · 
   <a href="https://twitter.com/Stickysuraj">🐦 Twitter</a>
