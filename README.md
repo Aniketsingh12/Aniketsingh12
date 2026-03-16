@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aniket Singh 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> · Building Autonomous Agents, RAG Systems <br>
+  <b>AI Engineer</b> · Building Autonomous Agents, RAG Systems & LLM Applications <br>
   <a href="https://aniketsingh12.github.io/AI-Engineer-Portfolio/">🌐 Portfolio</a> · 
   <a href="https://www.linkedin.com/in/aniket-singh-954b721a3/">💼 LinkedIn</a> · 
   <a href="https://twitter.com/Stickysuraj">🐦 Twitter</a>
@@ -11,13 +11,13 @@
 
 ### 🔧 What I Build
 
-I design and build **AI-powered systems** that automate real workflows — from intelligent agents that reason and act, to content pipelines that generate at scale. I work across the full stack: model integration, backend APIs, GPU-optimized inference, and deployment.
+I design and build **AI-powered systems** that automate real workflows — from intelligent agents that reason and act, to LLM applications that solve business problems. I work across the full stack: model integration, backend APIs, GPU-optimized inference, and deployment.
 
 **Core areas:**
 - 🤖 **AI Agents** — Multi-step autonomous agents using CrewAI, LangChain & MCP (Model Context Protocol)
 - 🔍 **RAG Systems** — Retrieval-augmented generation for accurate, grounded AI responses
-- 🎨 **AI Content Pipelines** — Image/video generation with ComfyUI, Stable Diffusion & LTX Video
 - 💬 **LLM Applications** — Chatbots, text-to-SQL, multi-model orchestration
+- ⚡ **AI Workflow Automation** — End-to-end pipelines that integrate AI into existing business processes
 
 ---
 
@@ -25,7 +25,7 @@ I design and build **AI-powered systems** that automate real workflows — from 
 
 I help businesses integrate AI into their products and workflows.
 
-**Services:** AI Agent Development · MCP Integrations · RAG Chatbots · AI Content Automation · LLM App Development
+**Services:** AI Agent Development · MCP Integrations · RAG Chatbots · LLM App Development · AI Workflow Automation
 
 📧 Reach out via [LinkedIn](https://www.linkedin.com/in/aniket-singh-954b721a3/) or check my [Portfolio](https://aniketsingh12.github.io/AI-Engineer-Portfolio/)
 
@@ -34,8 +34,8 @@ I help businesses integrate AI into their products and workflows.
 ### 🔨 Currently Building
 
 - AI agent workflows with **CrewAI & MCP** for multi-source intelligence
-- Automated content pipelines using **ComfyUI + LTX Video**
 - RAG-powered chatbots with **LangChain + FastAPI**
+- Custom **MCP servers** for tool-augmented AI applications
 
 ---
 
@@ -56,10 +56,10 @@ I help businesses integrate AI into their products and workflows.
 
 **AI Tools & Platforms**
 
-![ComfyUI](https://img.shields.io/badge/ComfyUI-000000?style=for-the-badge&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-A100FF?style=for-the-badge&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-2D72D9?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logoColor=white)
 
 **Backend & DevOps**
 
