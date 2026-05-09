@@ -1,7 +1,7 @@
 # Hey, I'm Aniket Singh 👋
 
 **Full-Stack AI Engineer** — I build AI products from idea to deployed system.  
-MCP Servers · AI Agents · Claude-powered Apps · RAG Pipelines · AWS GenAI
+MCP Servers · AI Agents · LLM-powered Apps · RAG Pipelines · AWS GenAI
 
 [🌐 Portfolio](https://aniketsingh12.github.io/AI-Engineer-Portfolio/) · [🐦 Twitter](https://twitter.com/Stickysuraj)
 
@@ -9,14 +9,14 @@ MCP Servers · AI Agents · Claude-powered Apps · RAG Pipelines · AWS GenAI
 
 ## What I Build
 
-I build **end-to-end AI systems** — not demos. From WhatsApp bots and voice agents to multi-agent pipelines and RAG systems, I take AI from idea to production.
+I build **end-to-end AI systems** — not demos. From chatbots and voice agents to multi-agent pipelines and RAG systems, I take AI from idea to production.
 
 **Services**
 
-- 🔌 **MCP Servers** — Custom Model Context Protocol integrations connecting Claude to your CRMs, databases, Slack, email, and internal APIs
-- 🤖 **AI Agents** — Multi-agent systems using CrewAI and Claude that plan, execute, and self-correct autonomously
-- 💬 **AI Chatbots & Voice Bots** — WhatsApp, web, and phone AI assistants powered by Claude and real-time voice pipelines
-- 🔍 **RAG Pipelines** — Document ingestion, vector search, and grounded Q&A on AWS Bedrock and SageMaker
+- 🔌 **MCP Servers** — Custom Model Context Protocol integrations connecting LLMs to your CRMs, databases, Slack, email, and internal APIs
+- 🤖 **AI Agents** — Multi-agent systems that plan, execute, and self-correct autonomously using any LLM backbone
+- 💬 **AI Chatbots & Voice Bots** — WhatsApp, web, and phone AI assistants with real-time voice pipelines
+- 🔍 **RAG Pipelines** — Document ingestion, vector search, and grounded Q&A on any stack
 - ⚡ **Workflow Automation** — End-to-end AI pipelines with multi-tool orchestration, error handling, and retries
 - ☁️ **AWS GenAI Deployment** — Production deployments on Bedrock, SageMaker, and serverless infrastructure
 
@@ -26,11 +26,11 @@ I build **end-to-end AI systems** — not demos. From WhatsApp bots and voice ag
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| **BotForge** | Multi-channel AI chatbot builder — WhatsApp + Web, powered by Claude | Claude API · FastAPI · Twilio · Supabase |
+| **BotForge** | Multi-channel AI chatbot builder — WhatsApp + Web with any LLM backend | FastAPI · Twilio · Supabase · LLM API |
 | **CallBot** | AI voice agent for inbound/outbound calls — STT, reasoning, TTS pipeline | Whisper · ElevenLabs · Twilio · FastAPI |
-| **AgentForge** | Multi-agent workflow builder — deploy custom CrewAI + Claude agent pipelines | CrewAI · Claude API · MCP SDK · FastAPI |
-| **ContentAI** | AI content factory — generate, review, and publish across formats at scale | Claude API · Celery · Redis · FastAPI |
-| **FlowAI** | No-code AI workflow automation — visual canvas, Claude-first, one-click deploy | React · FastAPI · Claude API · Supabase |
+| **AgentForge** | Multi-agent workflow builder — deploy custom agent pipelines for any use case | CrewAI · MCP SDK · FastAPI · LLM API |
+| **ContentAI** | AI content factory — generate, review, and publish across formats at scale | FastAPI · Celery · Redis · LLM API |
+| **FlowAI** | No-code AI workflow automation — visual canvas, LLM-first, one-click deploy | React · FastAPI · Supabase · LLM API |
 
 ---
 
@@ -39,8 +39,11 @@ I build **end-to-end AI systems** — not demos. From WhatsApp bots and voice ag
 **AI & Agents**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![MCP SDK](https://img.shields.io/badge/MCP_Protocol-2D72D9?style=for-the-badge&logoColor=white)
 
 **Voice & Comms**
@@ -78,6 +81,6 @@ I build **end-to-end AI systems** — not demos. From WhatsApp bots and voice ag
 
 I help businesses integrate AI into their existing tools and workflows — from first prototype to production system.
 
-**What I take on:** MCP server development · AI agent systems · WhatsApp & voice bots · RAG pipelines · AWS Bedrock & SageMaker deployment · AI workflow automation
+**What I take on:** MCP server development · AI agent systems · Chatbots & voice bots · RAG pipelines · AWS Bedrock & SageMaker deployment · AI workflow automation
 
 📬 Reach out on [Twitter](https://twitter.com/Stickysuraj) or view my [Portfolio](https://aniketsingh12.github.io/AI-Engineer-Portfolio/)
